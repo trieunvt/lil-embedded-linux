@@ -19,3 +19,9 @@ These little embedded Linux operating system projects were developed on practica
 ### [NT98530](./novatek/nt98530/)
 
 -   [Embedded Linux Build Guide](./novatek/nt98530/embedded-linux-build-guide/)
+
+## [Realtek](./realtek/)
+
+### [RTS39XX](./realtek/rts39xx/)
+
+-   [Embedded Linux Build Guide](./realtek/rts39xx/embedded-linux-build-guide/)
