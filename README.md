@@ -20,6 +20,12 @@ These little embedded Linux operating system projects were developed on practica
 
 -   [Embedded Linux Build Guide](./novatek/nt98530/embedded-linux-build-guide/)
 
+## [Qualcomm](./qualcomm/)
+
+### [QCS8250](./qualcomm/qcs8250/)
+
+-   [Image Sensor Shared Library Configuration Guide](./qualcomm/qcs8250/img-sen-shared-lib-config-guide/)
+
 ## [Realtek](./realtek/)
 
 ### [RTS39XX](./realtek/rts39xx/)
