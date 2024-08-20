@@ -6,6 +6,7 @@ These little embedded Linux operating system projects were developed on practica
 
 ### [Green Wireless](./beagle-bone/green-wireless/)
 
+-   [Embedded Linux Build Guide](./beagle-bone/green-wireless/embedded-linux-build-guide/)
 -   [Enhanced Loadable Kernel Module Tutorial](./beagle-bone/green-wireless/enhanced-lkm-tutorial/)
 
 ## [Firefly](./firefly/)
